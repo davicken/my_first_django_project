@@ -1,0 +1,21 @@
+li a {
+    color: green;
+    }
+body {
+    background: rgb(151, 28, 28) url("images/background.png") ;
+     color:green; 
+    }
+body .container{
+    padding:10% 0%;
+}
+.my_button {
+
+        width: 200px;
+        margin-top: 20px;
+        background-color: green;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+    
+    }
