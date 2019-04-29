@@ -1,4 +1,4 @@
-#!/home/davicken/Desktop/projects/PY-Django/my_first_project/venv/bin/python
+#!/home/davicken/Desktop/projects/PY-Django/my_first_django_project/venv/bin/python
 
 import sys
 import getopt
